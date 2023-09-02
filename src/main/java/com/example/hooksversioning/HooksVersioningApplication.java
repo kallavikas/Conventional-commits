@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HooksVersioningApplication {
 
     public static void main(String[] args) {
+        // 1. first commit
         SpringApplication.run(HooksVersioningApplication.class, args);
     }
 }
