@@ -8,7 +8,7 @@ public class HooksVersioningApplication {
 
     public static void main(String[] args) {
         // 1. first commit
-        // 2. second commit
+        // 2. second commit2
         SpringApplication.run(HooksVersioningApplication.class, args);
     }
 }
